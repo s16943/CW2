@@ -1,7 +1,7 @@
 {
   "profiles": {
     "CW2": {
-      "commandLineArgs": "C:\\Users\\Jakub\\Desktop\\STUDIA\\APBD\\Projekty_APBD\\CW2\\CW2\\CW2\\dane.csv C:\Users\Jakub\Desktop\STUDIA\APBD\Projekty_APBD\CW2\CW2\CW2\\result.xml xml",
+      "commandLineArgs": @"C:\\Users\\Jakub\\Desktop\\STUDIA\\APBD\\Projekty_APBD\\CW2\\CW2\\CW2\\dane.csv C:\Users\Jakub\Desktop\STUDIA\APBD\Projekty_APBD\CW2\CW2\CW2\\result.xml xml",
       "commandName": "CW2"
     }
   }
